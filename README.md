@@ -12,4 +12,4 @@ Under the terms of this [document](https://www.unibo.it/it/ateneo/chi-siamo/imma
 
 Additionally, University of Bologna offers its own [identity system](https://www.unibo.it/it/allegati/SistemaIdentitUniversitBologna.pdf/@@download/file/Sistema%20di%20identita%20di%20Ateneo.pdf).
 
-![preview](./preview/preview.png)
+<img src="./preview/preview.png" alt="preview" width="300"/>
